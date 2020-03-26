@@ -9,7 +9,7 @@
 
 
 **Link to work:**
-[styling-links](ht#tps://codepen.io/jacob319/pen/abOQpdv)
+[styling-links](https://codepen.io/jacob319/pen/abOQpdv)
 
 
 
