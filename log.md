@@ -13,6 +13,15 @@
 
 
 
+###Day 2: March 26,2020
+
+**Today's Progress:**
+
+
+**Link to work**
+
+
+
 
 
 <!--### Day 0: February 30, 2016 (Example 1)
