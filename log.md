@@ -1,11 +1,15 @@
 # 100 Days Of Code - Log
 
-## Day 0: March 25,2020
-**Today's Progress:**
+### Day 0: March 25,2020
 
-**Thoughts:**
+
+**Today's Progress:** I didn't do much but set up codepen, set up twitter and slack account, and used Scrimba Tutorial to learn about styling links
+
+**Thoughts:** Today was a start kind of started slow but I feel like tomorrow will be a much better day since I know where to start. [Scrimba](https://scrimba.com/) is just great to start learning and during at the sametime.
+
 
 **Link to work:**
+[styling-links](ht#tps://codepen.io/jacob319/pen/abOQpdv)
 
 
 
