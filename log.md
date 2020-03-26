@@ -13,7 +13,7 @@
 
 
 
-###Day 2: March 26,2020
+### Day 2: March 26,2020
 
 **Today's Progress:**
 
