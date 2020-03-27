@@ -15,14 +15,24 @@
 
 ### Day 2: March 26,2020
 
-**Today's Progress:**
+**Today's Progress:** Today learned more CSS: built simple buttons, created hover for links and buttons.
+I continued to you Scrimba tutorials.
+
+**Thoughts:** Today was bittersweet because today was my last day at work before lay-off. Anyways I felt better using CSS and using what I learned. I really enjoy Scrimba the teacher really breaks it down to make it easy to learn.
 
 
-**Link to work**
+**Link to work:**
 [learning css](https://codepen.io/jacob319/pen/vYOQboy via @CodePen)
 
 
+### Day 3: March 27,2020
 
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+[] ()
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
