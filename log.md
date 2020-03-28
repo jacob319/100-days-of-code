@@ -27,7 +27,7 @@ I continued to you Scrimba tutorials.
 
 ### Day 3: March 27,2020
 
-**Today's Progress:**
+**Today's Progress:** Today continued learning more css, mainly em and rem but also other css units. 
 
 **Thoughts:**
 
