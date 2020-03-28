@@ -27,12 +27,12 @@ I continued to you Scrimba tutorials.
 
 ### Day 3: March 27,2020
 
-**Today's Progress:** Today continued learning more css, mainly em and rem but also other css units. 
+**Today's Progress:** Today continued learning more css, mainly em and rem but also other css units. Learned about min-width ,max-width, and how and when to use percentage.
 
-**Thoughts:**
+**Thoughts:**continued to learn more css, did more tutorial than coding tonight. 
 
 **Link to work:**
-[] ()
+[Responsive CSS Tutorial: The Responsive Web Design Bootcamp] ( https://scrimba.com/g/gresponsive)
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
