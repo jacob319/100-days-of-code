@@ -29,10 +29,19 @@ I continued to you Scrimba tutorials.
 
 **Today's Progress:** Today continued learning more css, mainly em and rem but also other css units. Learned about min-width ,max-width, and how and when to use percentage.
 
-**Thoughts:**continued to learn more css, did more tutorial than coding tonight. 
+**Thoughts:** continued to learn more css, did more tutorial than coding tonight. 
 
 **Link to work:**
 [Responsive CSS Tutorial: The Responsive Web Design Bootcamp] ( https://scrimba.com/g/gresponsive)
+
+### Day 4: March 28,2020
+
+**Today's Progress:** Created a simple landing page following an old youtube video of Traversy Medua.
+
+**Thoughts:**. Today I was able to take breaks which really helped, didn't feel rushed or anything. Really felt good looking up the right colors to use, the right picture. Today I was in a flow and learned about vh in CSS.
+
+**link to work:** 
+[landing page]( https://codepen.io/jacob319/pen/MWwZqEy?editors=1100)
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
