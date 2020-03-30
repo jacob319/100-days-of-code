@@ -43,6 +43,14 @@ I continued to you Scrimba tutorials.
 **link to work:** 
 [landing page]( https://codepen.io/jacob319/pen/MWwZqEy?editors=1100)
 
+###Day 5 March 29,2020
+
+**Today's Progress:** started learning some more flexbox, flexbox is cool but I know I need more practice. I followed Scrmba tutorial but tomorrow will try to build something. 
+
+**Thoughts** Today was ok but I really wanted to just lay in the bed and be depressed. However I pushed myself to do something and learned a little flexbox.
+
+**Link to work:**
+[learning-flexbox] (https://codepen.io/jacob319/pen/KKpJgrd)
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
