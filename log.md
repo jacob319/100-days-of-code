@@ -43,7 +43,7 @@ I continued to you Scrimba tutorials.
 **link to work:** 
 [landing page]( https://codepen.io/jacob319/pen/MWwZqEy?editors=1100)
 
-###Day 5 March 29,2020
+### Day 5: March 29,2020
 
 **Today's Progress:** started learning some more flexbox, flexbox is cool but I know I need more practice. I followed Scrmba tutorial but tomorrow will try to build something. 
 
@@ -51,6 +51,26 @@ I continued to you Scrimba tutorials.
 
 **Link to work:**
 [learning-flexbox] (https://codepen.io/jacob319/pen/KKpJgrd)
+
+
+### Day 6: March 30,2020
+
+
+**Today's Progress:** learned more flexbox and media query, created a navbar with flexbox.
+
+**Thoughts:** Today was another great day, learn more about flexbox and a little bit about media query. [Scrimba](https://scrimba.com/) is just great to start learning flexbox. Only issue I'm having is when to use margin, padding, and how much to use.
+
+
+**Link to work:**
+[flexbox & media query] (https://codepen.io/jacob319/pen/vYOQboy via @CodePen)
+
+
+
+
+
+
+
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
