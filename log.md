@@ -70,9 +70,7 @@ I continued to you Scrimba tutorials.
 
 **Today's Progress:** learned more flexbox and media query, followed freecodecamp.
 
-**Thoughts:** Today didn't have much motavation to code, but pushed through it. Mostly followed freecodecamp and learned media query and flexbox. Learned that I learn better at night which is strange anyways I think I'm building a habit.
-
-
+**Thoughts:** Today didn't have much motivation to code, but pushed through it. Mostly followed freecodecamp and learned media query and flexbox. I learned that I learn better at night which is strange anyway I think I'm building a habit.
 **Link to work:**
 [flexbox & media query] (https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
 
