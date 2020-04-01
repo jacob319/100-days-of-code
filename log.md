@@ -65,6 +65,20 @@ I continued to you Scrimba tutorials.
 [flexbox & media query] (https://codepen.io/jacob319/pen/vYOQboy via @CodePen)
 
 
+### Day 7: March 31,2020
+
+
+**Today's Progress:** learned more flexbox and media query, followed freecodecamp.
+
+**Thoughts:** Today didn't have much motavation to code, but pushed through it. Mostly followed freecodecamp and learned media query and flexbox. Learned that I learn better at night which is strange anyways I think I'm building a habit.
+
+
+**Link to work:**
+[flexbox & media query] (https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
+
+
+
+
 
 
 
