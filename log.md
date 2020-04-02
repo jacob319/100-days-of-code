@@ -73,7 +73,7 @@ I continued to you Scrimba tutorials.
 **Link to work:**
 [flexbox & media query] (https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
 
-### Day 8 & 9: March 31,2020
+### Day 8 & 9: April 2,2020
 
 **Today's Progress:** Finished Tribute Page for Freecodecamp.
 
