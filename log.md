@@ -81,6 +81,7 @@ I continued to you Scrimba tutorials.
 
 **Link to work:**
 [Tribute Page] (https://codepen.io/jacob319/pen/vYOwbQa via @CodePen)
+
 ### Day 10: April 3,2020
 
 **Today's Progress:** looked at more of tutorials first #scrimba  CSS variables and then #Educative flexbox. Tomorrow I'm building most definitely, looking at doing a simple music app with HTML and CSS.
@@ -89,6 +90,17 @@ I continued to you Scrimba tutorials.
 
 **Link to work:**
 [Css Variables] (https://codepen.io/jacob319/pen/KKpYNvd?editors=1100 via @CodePen)
+
+### Day 11: April 4,2020
+
+**Today's Progress:** created a simple music app from watching Wes Bos https://www.youtube.com/watch?v=TrsrNZo0pOY
+ and used Educative https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know/JYEEr7joVjg 
+ 
+ **Thoughts:** Today was a good day, did alot of research and testing to find out what works. I'm so excited about learning
+web development.
+**Link to work:**
+[music app] (https://codepen.io/jacob319/pen/MWwMKYV via @CodePen)
+
 
 
 
