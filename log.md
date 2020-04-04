@@ -82,6 +82,14 @@ I continued to you Scrimba tutorials.
 **Link to work:**
 [Tribute Page] (https://codepen.io/jacob319/pen/KKpYNvd?editors=1100 via @CodePen)
 
+### Day 10: April 3,2020
+
+**Today's Progress:** looked at more of tutorials first #scrimba  CSS variables and then #Educative flexbox. Tomorrow I'm building most definitely, looking at doing a simple music app with HTML and CSS.
+
+**Thoughts:** Today I took the easy way out and just did tutorials, which I need to build more. I just have to remember why I'm learning web development. I think I'm finally understanding flexbox, hopefully next monday or tuesday I'll start learning Css Grid.
+
+**Link to work:**
+
 
 
 
