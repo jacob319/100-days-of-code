@@ -91,7 +91,15 @@ I continued to you Scrimba tutorials.
 **Link to work:**
 [Css Variables] (https://codepen.io/jacob319/pen/KKpYNvd?editors=1100 via @CodePen)
 
-### Day 11: April 5,2020
+### Day 11: April 4,2020
+
+**Today's Progress:** created a simple music app from watching Wes Bos https://www.youtube.com/watch?v=TrsrNZo0pOY and used Educative https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know/JYEEr7joVjg
+
+**Thoughts:** Today was a good day, did alot of research and testing to find out what works. I'm so excited about learning web development.
+
+**Link to work:** [music app] (https://codepen.io/jacob319/pen/MWwMKYV via @CodePen)
+
+### Day 12: April 5,2020
 
 **Today's Progress:** R1D12 #100DaysOfCode  finished  #Freecodecamp Applied Visual Design section. I wanted to spend some time with family so I didn't do much. Super excited about learning the CSS grid starting next week.
 
