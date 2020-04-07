@@ -111,8 +111,6 @@ I continued to you Scrimba tutorials.
 
 ### Day 13: April 6,2020
 
-**Today's Progress:** ### Day 12: April 5,2020
-
 **Today's Progress:** R1D13 #100DaysOfCode #CodeNewbie today I struggled a little but kept on pushing, anyway I finished Applied Accessibility Challenges in #freeCodeCamp. Also, I started on my landing page hopefully by tomorrow I'll be finished.
 **Thoughts:** Today was me struggle and thinking about other things. I think I did fair but I know I can and will do more. I still think I need to practice flexbox some more.
 
