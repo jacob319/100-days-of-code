@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - survey form-fcc</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<h1 id="title">College Survey</h1>
+<p id="description">Please fill out this survey for research</p>
+
+<form action="" id="survey-form">
+ <div class="name">
+  <label for="Name" id="name-label"/>Name</label>
+   <input type="text"placeholder="Username" name="username"
+          required minlength="4" id="name"/></div>
+  <br>
+  <div class="email">
+  <label for="email" id="email-label">Email</label>
+  <input type="email" placeholder="Email" name="email" required id="email"/></div>
+  
+ <div class="age"/> <br>
+   <label for="age" id="number-label">Age
+     <input type="number" placeholder="age" name="age" min="18" max="99" step="2" required id="number"/>
+     <br>
+    Gender:
+    <label for="female">Female</label>
+     <input type="radio" id="female" name="gender" value="female"/>
+     <label for="male">Male</label>
+     <input type="radio" id="male" name="gender" value="male"/>
+   </label>
+   <p>Education</p>
+<div.less than high school>   
+  <input type="checkbox" name="education"
+          value="less than High School" checked="checked"/>Less than High School
+   <div class="high school">
+  <input type="checkbox" name="education"
+          value="High School" checked="checked"/>High School</div> 
+  <div class="somecollege">   <input type="checkbox" name="education"
+          value="some college" checked="checked"/>Some College</div>
+  <div class="bachelers">
+   <input type="checkbox" name="education"
+          value="Bachelors degree" checked="checked"/>Bachelors degree</div>
+   <P>Interests:</P>
+     
+   <select name="interest" id="dropdown" size"3" multiple="multiple"> 
+     <option value="html" selected="selected">HTML</option>
+     <option value="css"selected="selected">CSS</option>
+     <option value="flexbox"selected="selected">Flexbox</option>
+     <option value="css-grid"selected="selected">CSS-GRID</option>       
+   </select>
+   <br>
+   <p>Comments:</p>
+   
+   <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
+         
+  
+   </div> 
+  <br>
+ <button id="submit">Submit</button>
+  
+  
+</form>
+<!-- partial -->
+  
+</body>
+</html>

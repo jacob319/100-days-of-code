@@ -1,0 +1,28 @@
+*
+html,body{
+  box-size: border-box;
+  margin:0;
+  padding:0;
+  text-align: center;
+  font-size: 20px;
+  line-height:1.5;
+  color:#fff
+ 
+  
+}
+body{
+ background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/731415/zheng-wang-gywst814z_4-unsplash.jpg);
+  background-size:cover;
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+}
+ 
+
+    
+
+button:hover{
+  background:hotpink;
+    color:#fff;
+}
+
+
