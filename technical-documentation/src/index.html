@@ -1,0 +1,143 @@
+<body>
+<nav id="navbar">
+  <header>CSS GRID</header>
+  <ul class="button">
+                 
+   <li><a class="nav-link"href="#Defining a grid">Defining a grid</a></li>
+   <li><a class="nav-link"href="#Flexible grids with the fr unit">Flexible grids with the fr unit</a></li>
+    <li><a class="nav-link"href="#Gaps between tracks">Gaps between tracks</a></li>
+    <li><a class="nav-link"href="#Repeating track listings">Repeating track listings</a></li>
+    <li><a class="nav-link" href="#The minmax() function">The minmax() function</a></li>
+  </ul>
+  
+  
+</nav>
+<main id="main-doc">
+  <section class="main-section"id="Defining a grid">
+    <h2>Defining a grid</h2>
+   <p>As a starting point, download and open the starting point file in your text editor and browser (you can also see it live here). You will see an example with a container, which has some child items. By default these display in normal flow so the boxes display one below the other. We will be working with this file for the first part of this lesson, making changes to see how grid behaves.</p>
+   <p>To define a grid we use the grid value of the display property. As with Flexbox, this switches on Grid Layout, and all of the direct children of the container become grid items. Add this to the CSS inside your file:</p>
+    <pre>
+    <code>
+      .container {
+    display: grid;
+      }
+
+    </code>
+    </pre>
+   <p>Unlike flexbox, the items will not immediately look any different. Declaring display: grid gives you a one column grid, so your items will continue to display one below the other as they do in normal flow.</p>
+   <p>To see something that looks more grid-like, we will need to add some columns to the grid. Let's add three 200-pixel columns here. You can use any length unit, or percentages to create these column tracks.</p>
+    <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="jacob319" data-slug-hash="XWmJxJV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple Grid Examplebody">
+  <span>See the Pen <a href="https://codepen.io/jacob319/pen/XWmJxJV">
+  Simple Grid Examplebody</a> by isaac (<a href="https://codepen.io/jacob319">@jacob319</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+  <pre>
+   <code>
+     .container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
+    </code>
+    </pre>
+    <p>Add the 2nd declaration to your CSS rule, then reload the page, and you should see that the items have rearranged themselves one into each cell of the created grid.</p>
+    
+   
+  </section>
+  <section class="main-section"id="Flexible grids with the fr unit">
+   <h2>Flexible grids with the fr unit</h2>
+   <p>In addition to creating grids using lengths and percentages, we can use the fr unit to flexibly size grid rows and columns. This unit represents one fraction of the available space in the grid container.</p>
+
+<p>Change your track listing to the following definition, creating three 1fr tracks.
+   </p>
+    <pre>
+    <code>
+     .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+} 
+    </code>
+    </pre>
+   <p>You should now see that you have flexible tracks. The fr unit distributes space in proportion, therefore you can give different positive values to your tracks, for example if you change the definition like so:</p>
+   <pre>
+   <code>
+   .container {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+}</code>
+</pre>
+    <p>The first track now gets 2fr of the available space and the other two tracks get 1fr, making the first track larger. You can mix fr units and fixed length tracks — in such a case the space needed for the fixed tracks is taken away before the space is distributed to the other tracks.
+</p>
+    <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="jacob319" data-slug-hash="mdeyzRd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple Grid Example with fr unitsbody">
+  <span>See the Pen <a href="https://codepen.io/jacob319/pen/mdeyzRd">
+  Simple Grid Example with fr unitsbody</a> by isaac (<a href="https://codepen.io/jacob319">@jacob319</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+  </section>
+  <section class="main-section"id="Gaps between tracks">
+     <h2>Gaps between tracks</h2>
+    <p>To create gaps between tracks we use the properties grid-column-gap for gaps between columns, grid-row-gap for gaps between rows, and grid-gap to set both at once.</p>
+    <pre>
+    <code>
+      .container {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-gap: 20px;
+}    </code>
+    </pre>
+    
+    <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="jacob319" data-slug-hash="GRpgxWv" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Simple Grid Example with fr unitsbody ">
+  <span>See the Pen <a href="https://codepen.io/jacob319/pen/GRpgxWv">
+  Simple Grid Example with fr unitsbody </a> by isaac (<a href="https://codepen.io/jacob319">@jacob319</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+    <p>These gaps can be any length unit or a percentage, but not an fr unit.</p>
+    <pre>
+    <code>.container {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-gap: 20px;
+  gap: 20px;
+}
+</code>
+</pre>
+    
+  </section>
+  <section class="main-section"id="Repeating track listings">
+     <h2>Repeating track listings</h2>
+    <p>You can repeat all, or a section of, your track listing using repeat notation. Change your track listing to the following:</p>
+    <pre>
+       <code>
+      .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+    </code>
+    </pre>
+    <p>You will now get 3 1fr tracks just as before. The first value passed to the repeat function is how many times you want the listing to repeat, while the second value is a track listing, which may be one or more tracks that you want to repeat.</p>
+    
+   
+  </section>
+  <section class="main-section"id="The minmax() function">
+     <h2>The minmax() function</h2>
+    <p>Our 100-pixel tall tracks won’t be very useful if we add content into those tracks that is taller than 100 pixels, in which case it would cause an overflow. It might be better to have tracks that are at least 100 pixels tall and can still expand if more content gets into them. A fairly basic fact about the web is that you never really know how tall something is going to be; additional content or larger font sizes can cause problems with designs that attempt to be pixel perfect in every dimension.</p>
+    <p>The minmax function lets us set a minimum and maximum size for a track, for example minmax(100px, auto). The minimum size is 100 pixels, but the maximum is auto, which will expand to fit the content. Try changing grid-auto-rows to use a minmax value:</p>
+    <pre>
+    <code>
+    .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap: 20px;
+}
+    </code>
+    </pre>
+  </section>
+</main>
+  </body>
+  
+
